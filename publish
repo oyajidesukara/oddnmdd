@@ -52,6 +52,22 @@
         "NaonoHolics & Oyajidesukara": "/proxy/api/imgur/chapter/YUdUDzc/"
       },
       "last_updated": "1626654236"
-    }         
+    },
+    "7": {
+      "title": "Act.7",
+      "volume": "0",
+      "groups": {
+        "NaonoHolics & Oyajidesukara": "/proxy/api/imgur/chapter/dyNc8WQ/"
+      },
+      "last_updated": "1626915382"
+    },
+    "7.5": {
+      "title": "Extra",
+      "volume": "0",
+      "groups": {
+        "NaonoHolics & Oyajidesukara": "/proxy/api/imgur/chapter/6uF6ahq/"
+      },
+      "last_updated": "1626915382"
+    }          
   }
 }
